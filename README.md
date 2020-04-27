@@ -16,6 +16,8 @@ Each LiteM user SHOULD compile the source by themselves to comply with FiveM ToS
 # First install
 git clone https://github.com/esx-org/litem
 cd litem
+git submodule init
+git submodule update
 npm install
 npm run init # will take a while
 npm run apply-diff
