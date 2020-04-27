@@ -32,6 +32,8 @@ npm run update
 npm run create-diff
 ```
 
+Mandatory thing **sv_lan 1**
+
 Everything in **dist/** folder
 
 # State of the projet
