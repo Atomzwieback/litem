@@ -14,7 +14,7 @@ Each LiteM user SHOULD compile the source by themselves to comply with FiveM ToS
 
 ```bash
 # First install
-npx degit https://github.com/esx-org/litem
+git clone https://github.com/esx-org/litem
 cd litem
 npm install
 npm run init # will take a while
